@@ -1,3 +1,3 @@
 # The Complete Intro to Web Dev first Proyect
 
-This is the first proyect of the Complete Intro to Web Dev course.
+This is my first proyect of the Complete Intro to Web Dev course from Frontend Masters.
